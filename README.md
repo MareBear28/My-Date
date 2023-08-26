@@ -1,5 +1,10 @@
 # My-Date 🗓️
-Using Julian and Gregorian Dates, MyDate class helps with sorting based on dates.
+Using Julian and Gregorian Dates, MyDate class helps with sorting based on dates. In this example, myDate is used to help sort a list of students. From a list of students, we can sort a list based on:
+- Name
+- Student ID
+- Grade
+- Birthday
+- Home Town
 
 ## About My-Date Class 💡
 When creating a myDate object, there are 2 constructors that can be used:
