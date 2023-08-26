@@ -1,7 +1,7 @@
-# My-Date
+# My-Date 🗓️
 Using Julian and Gregorian Dates, MyDate class helps with sorting based on dates.
 
-## About My-Date Class
+## About My-Date Class 💡
 When creating a myDate object, there are 2 constructors that can be used:
 - myDate() - This is a default constructor. This is will create a myDate object with the date May 5, 1959.
 - myDate(int m, int d, int y) - This contructor will create a myDate object based on the 3 given integers that represents the month, the day, and the year.
