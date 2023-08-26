@@ -1,4 +1,4 @@
-# Student List Sory using My-Date 🗓️
+# Student List Sort using My-Date 🗓️
 Using Julian and Gregorian Dates, MyDate class helps with sorting based on dates. In this example, myDate is used to help sort a list of students. From a list of students, we can sort a list based on:
 - Name
 - Student ID
